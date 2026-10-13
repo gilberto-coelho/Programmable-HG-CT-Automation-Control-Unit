@@ -12,7 +12,7 @@ The controller was originally developed using an Arduino Mega in 2022 and progre
 
 **Front view of the unit:**
 
-<img width="1574" height="1996" alt="IMG_5154" src="https://github.com/user-attachments/assets/d6364df8-5544-4376-b584-43f1cf7e2c61" />
+<img width="350" alt="IMG_5154" src="https://github.com/user-attachments/assets/d6364df8-5544-4376-b584-43f1cf7e2c61" />
 
 <br>
 <br>
@@ -244,8 +244,16 @@ The images below show the internal electronics and wiring of the control unit, a
 
 **Internal electronics and wiring:**
 
-<img width="1330" height="1667" alt="IMG_8409" src="https://github.com/user-attachments/assets/2e1afe82-57a5-43ae-a691-3772196953d2" />
-<img width="1302" height="1637" alt="IMG_8410" src="https://github.com/user-attachments/assets/074b3d97-53aa-4348-a353-5a83afba8f96" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="1330" height="1667" alt="IMG_8409" src="https://github.com/user-attachments/assets/2e1afe82-57a5-43ae-a691-3772196953d2" />
+    </td>
+    <td width="50%">
+      <img width="1302" height="1637" alt="IMG_8410" src="https://github.com/user-attachments/assets/074b3d97-53aa-4348-a353-5a83afba8f96" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <br>
