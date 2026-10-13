@@ -12,7 +12,7 @@ The controller was originally developed using an Arduino Mega in 2022 and progre
 
 **Front view of the unit:**
 
-<img width="350" alt="IMG_5154" src="https://github.com/user-attachments/assets/d6364df8-5544-4376-b584-43f1cf7e2c61" />
+<img width="800" alt="IMG_5154" src="https://github.com/user-attachments/assets/d6364df8-5544-4376-b584-43f1cf7e2c61" />
 
 <br>
 <br>
