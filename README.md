@@ -96,10 +96,11 @@ The automation replaces a sequence of manually coordinated operations with a rep
 
 ### Servo-Actuated Valve
 
-The current version uses a servo motor to mechanically actuate the cryotrap valve. Valve opening and closing are integrated into the programmable sequence and automatically synchronized with the other stages of the analytical cycle.
+The current version uses a servo motor (MG996R; 180°) to mechanically actuate the cryotrap valve (6 mm shut-off hand valve). Valve opening and closing are integrated into the programmable sequence and automatically synchronized with the other stages of the analytical cycle.
+
+**[Download STL files](STL-files/)**
 
 **Servo-actuated valve operation:**
-
 
 https://github.com/user-attachments/assets/ff7d8ff2-8369-44f6-a764-7405395b6b20
 
